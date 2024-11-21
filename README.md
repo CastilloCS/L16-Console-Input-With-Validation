@@ -1,4 +1,4 @@
-# **Lab 19: Console Input With Validation**
+# **Lab 16: Console Input With Validation**
 ### Overview:
 
 You recently made your own classes from scratch and added validity checking in your setter methods. In this lab, you will create an array of two `NetflixOriginal` objects by getting valid inputs from the user.
